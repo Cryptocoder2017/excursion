@@ -15,3 +15,6 @@ body {
 img {
   background-color: black;
 }
+video {
+  object-fit: contain;
+}
