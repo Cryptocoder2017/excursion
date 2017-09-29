@@ -1,20 +1,30 @@
 body {
   background-color: black;
+  text-align: center;
+  font-family: Verdana;
+  color: white;
 }
 .link{
   color: Aquamarine;
   font-size: 16px;
 }
 .title {
-  font-family: Verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
-img {
+.video {
   background-color: black;
 }
-video {
-  object-fit: contain;
+h2 {
+  font-weight: 300;
+  font-size: 42px
+}
+p {
+  font-size: 21px;
+  color: gray;
+}
+.footer {
+  text-align: right;
+  color: gray;
 }
